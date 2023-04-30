@@ -19,6 +19,8 @@ Day and Night System:
 
 You can select the day mode from the settings icon,  night mode or day or random mode.
 
+![Screenshot_25](https://user-images.githubusercontent.com/130579265/235330699-fd3f9e24-b22a-482f-bcdf-c4d203273607.png)
+
 Music Settings:  
 
 You can select the Mute Button in the upper left corner of the screen and so you can mute all the sound.
@@ -32,6 +34,6 @@ Some Orange Guys:
 In the levels you will see some orange guys who randomly appear in front of you. You don't need to be afraid, they are just there to distract you. Just ignore it.
 
 
-![Screenshot_25](https://user-images.githubusercontent.com/130579265/235330699-fd3f9e24-b22a-482f-bcdf-c4d203273607.png)
+
 
 
