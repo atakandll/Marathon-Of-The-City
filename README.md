@@ -25,6 +25,7 @@ Music Settings:
 
 You can select the Mute Button in the upper left corner of the screen and so you can mute all the sound.
 Tap to  settings icon to edit background or sound effects sounds.
+
 Raining: 
 
 As you progress through the levels, you will see that it rains randomly and in some places the rain accelerates or the rain stops.
