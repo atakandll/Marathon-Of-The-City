@@ -24,9 +24,11 @@ You can select the Mute Button in the upper left corner of the screen and so you
 Tap to  settings icon to edit background or sound effects sounds.
 
 Raining: 
+
 As you progress through the levels, you will see that it rains randomly and in some places the rain accelerates or the rain stops.
 
 Some Orange Guys:
+
 In the levels you will see some orange guys who randomly appear in front of you. You don't need to be afraid, they are just there to distract you. Just ignore it.
 
 
