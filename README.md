@@ -5,6 +5,7 @@
  ![Screenshot_20](https://user-images.githubusercontent.com/130579265/235330690-6793a8ed-d992-4791-b6af-f7fb5eb45113.png)
  
  Game Details:
+ 
 Shopping System:  
 
 Tap to shopping  icon of first screen in game. You can change platform colors and character colors with the coins  you collect.
